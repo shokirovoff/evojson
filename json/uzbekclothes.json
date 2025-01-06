@@ -1,0 +1,109 @@
+{
+    "uzbekTraditionalClothing": [
+      {
+        "name": "Chopon",
+        "description": "Uzun, keng va tikish uslubiga ega bo‘lgan ustki kiyim. Chopon erkaklar va ayollar tomonidan sovuqdan himoyalanish uchun kiyiladi.",
+        "materials": ["Ipak", "Paxta mato", "Adras"],
+        "uses": [
+          "Sovuqdan himoya",
+          "Bayramlar va marosimlarda kiyiladi"
+        ],
+        "designFeatures": [
+          "To‘q rangli va chiroyli naqshlar",
+          "Ichki qatlami issiq saqlaydi"
+        ]
+      },
+      {
+        "name": "Do‘ppi",
+        "description": "O‘zbek milliy bosh kiyimi bo‘lib, erkaklar va ayollar tomonidan foydalaniladi.",
+        "materials": ["Matо", "Bezak uchun ipak", "Paxta"],
+        "uses": [
+          "Bayram va to‘y marosimlarida",
+          "Kunlik kiyim sifatida"
+        ],
+        "designFeatures": [
+          "O‘ziga xos geometrik naqshlar",
+          "Turli xil ranglarda tikiladi"
+        ]
+      },
+      {
+        "name": "Atlas ko‘ylak",
+        "description": "Ayollar uchun mo‘ljallangan ipak matodan tikilgan ko‘ylak. Atlas O‘zbekistonda juda qadrlanadi.",
+        "materials": ["Atlas", "Ipak mato"],
+        "uses": [
+          "To‘y va bayram marosimlarida",
+          "Kunlik hayotda"
+        ],
+        "designFeatures": [
+          "Juda yorqin ranglar va naqshlar",
+          "Qulay va yengil"
+        ]
+      },
+      {
+        "name": "Adras",
+        "description": "Paxta va ipakdan tayyorlangan mato bo‘lib, undan ko‘ylak, kamzul, chopon va boshqa kiyimlar tikiladi.",
+        "materials": ["Ipak", "Paxta"],
+        "uses": [
+          "Milliy liboslar tikishda",
+          "Uy jihozlari (pardalar, qoplamalar) yaratishda"
+        ],
+        "designFeatures": [
+          "Ipak va paxta aralashmasidan tayyorlangan",
+          "Ko‘p rangli geometrik naqshlar"
+        ]
+      },
+      {
+        "name": "Lozim va ko‘ylak",
+        "description": "Ayollar kiyadigan an’anaviy lozim (tor shim) va uzun ko‘ylakdan iborat kiyimlar to‘plami.",
+        "materials": ["Ipak", "Atlas", "Paxta"],
+        "uses": [
+          "To‘y va bayramlarda",
+          "Milliy raqslarda"
+        ],
+        "designFeatures": [
+          "Tor lozim va uzun ko‘ylak kombinatsiyasi",
+          "Juda yorqin naqshlar va bezaklar"
+        ]
+      },
+      {
+        "name": "Kamzul",
+        "description": "Ayollar va erkaklar kiyadigan, yengsiz ustki kiyim. Odatda milliy ko‘ylak yoki chopon ustidan kiyiladi.",
+        "materials": ["Ipak", "Adras", "Paxta mato"],
+        "uses": [
+          "Marosimlarda va bayramlarda",
+          "Kundalik hayotda"
+        ],
+        "designFeatures": [
+          "To‘q rangli va chiroyli naqshlar",
+          "Klassik tikish uslubi"
+        ]
+      },
+      {
+        "name": "Belbog‘",
+        "description": "Erkaklar va ayollar uchun milliy kiyimlar bilan birga taqiladigan kamar.",
+        "materials": ["Ipak", "Paxta", "Matо"],
+        "uses": [
+          "Libosni bezatish",
+          "Libosni ushlab turish"
+        ],
+        "designFeatures": [
+          "Naqshlar va rang-barang dizayn",
+          "Ipak va paxta matosidan tayyorlangan"
+        ]
+      },
+      {
+        "name": "Gulli ro‘mol",
+        "description": "Ayollar tomonidan boshni yopish uchun ishlatiladigan bezakli ro‘mol.",
+        "materials": ["Ipak", "Paxta"],
+        "uses": [
+          "Milliy kiyimning bir qismi sifatida",
+          "Bayram va to‘y marosimlarida"
+        ],
+        "designFeatures": [
+          "Gulli naqshlar va yorqin ranglar",
+          "Ipak va yengil matodan tayyorlangan"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,144 @@
+{
+    "UzbekCuisine": {
+      "description": "O'zbekiston oshxonasi Markaziy Osiyoning eng boy va mazali oshxonalardan biri bo'lib, unda go'shtli, guruchli va sabzavotli taomlar ustunlik qiladi. Milliy taomlar asosan o'ziga xos tayyorlash usullari va qadimiy an'analarga asoslangan.",
+      "key_dishes": [
+        {
+          "name": "Palov",
+          "description": "O'zbekistonning eng mashhur milliy taomi bo'lib, guruch, go'sht, sabzi va piyozdan tayyorlanadi.",
+          "ingredients": [
+            "Guruch",
+            "Qo'zichoq yoki mol go'shti",
+            "Sabzi",
+            "Piyoz",
+            "Ziravorlar (zira, qalampir, tuz)",
+            "O'simlik yog'i"
+          ],
+          "cooking_method": "Guruch, sabzi va go'sht qozonda o'ziga xos tartibda qovurilib, bug'da pishiriladi. Har bir hududda palov tayyorlash usuli biroz farq qiladi."
+        },
+        {
+          "name": "Manti",
+          "description": "Qovurilmagan yoki bug'da pishirilgan xamir ichiga qo'zichoq go'shti va piyoz solib tayyorlanadigan taom.",
+          "ingredients": [
+            "Xamir uchun: un, suv, tuz",
+            "Qo'zichoq yoki mol go'shti",
+            "Piyoz",
+            "Ziravorlar (tuz, qora murch)"
+          ],
+          "cooking_method": "Xamir yupqa yoyilib, go'shtli ichlik bilan to'ldiriladi va bug'da maxsus manti qozonida pishiriladi."
+        },
+        {
+          "name": "Lag'mon",
+          "description": "Qo'lda cho'zilgan maxsus makaron va sabzavotlardan tayyorlanadigan sho'rva taom.",
+          "ingredients": [
+            "Qo'l bilan cho'zilgan makaron",
+            "Qo'zichoq yoki mol go'shti",
+            "Pomidor",
+            "Piyoz",
+            "Sabzi",
+            "Qovoqcha",
+            "Bodring",
+            "Ziravorlar"
+          ],
+          "cooking_method": "Go'sht va sabzavotlar qovurilib, maxsus bulon qo'shiladi, keyin unga qo'l bilan tayyorlangan makaron qo'shiladi."
+        },
+        {
+          "name": "Somsa",
+          "description": "Pechda yoki tandirda pishiriladigan xamir ichida go'sht va piyozdan iborat to'ldirma.",
+          "ingredients": [
+            "Xamir uchun: un, suv, tuz, yog'",
+            "Qo'zichoq yoki mol go'shti",
+            "Piyoz",
+            "Ziravorlar (tuz, qora murch, zira)"
+          ],
+          "cooking_method": "Xamir yupqa yoyilib, go'shtli ichlik bilan to'ldiriladi, so'ngra pechda yoki tandirda pishiriladi."
+        },
+        {
+          "name": "Shurva",
+          "description": "Go'sht va sabzavotlardan tayyorlanadigan to'yimli sho'rva.",
+          "ingredients": [
+            "Qo'zichoq yoki mol go'shti",
+            "Piyoz",
+            "Kartoshka",
+            "Sabzi",
+            "Pomidor",
+            "Ziravorlar (tuz, murch, ko'katlar)"
+          ],
+          "cooking_method": "Go'sht va sabzavotlar qozonda suv bilan birga qaynatiladi va ziravorlar qo'shib tayyorlanadi."
+        },
+        {
+          "name": "Chuchvara",
+          "description": "Xamir ichiga mayda to'ldirilgan go'sht solib, qaynoq suvda pishiriladigan taom.",
+          "ingredients": [
+            "Xamir uchun: un, suv, tuz",
+            "Qo'zichoq yoki mol go'shti",
+            "Piyoz",
+            "Ziravorlar (tuz, qora murch)"
+          ],
+          "cooking_method": "Xamir yoyilib, mayda bo'laklarga bo'linadi. Har bir bo'lak ichiga go'shtli ichlik solinib, qaynoq suvda pishiriladi."
+        },
+        {
+          "name": "Narin",
+          "description": "Juda mayda to'g'ralgan go'sht va xamir bo'laklari bilan tayyorlanadigan taom.",
+          "ingredients": [
+            "Qo'zichoq yoki mol go'shti",
+            "Xamir",
+            "Piyoz",
+            "Ziravorlar"
+          ],
+          "cooking_method": "Go'sht qaynatilib, mayda to'g'raladi. Xamir qaynagan suvda pishiriladi va ustiga go'sht solib xizmat qilinadi."
+        },
+        {
+          "name": "Tandir go'sht",
+          "description": "Qo'zichoq go'shti tandirda yoki pechda maxsus usulda pishiriladi.",
+          "ingredients": [
+            "Qo'zichoq go'shti",
+            "Ziravorlar (tuz, qora murch, zira)"
+          ],
+          "cooking_method": "Go'sht tandirda yoki pechda uzoq vaqt davomida past haroratda pishiriladi."
+        }
+      ],
+      "desserts": [
+        {
+          "name": "Halva",
+          "description": "Qand, un va yog'dan tayyorlanadigan shirinlik.",
+          "ingredients": [
+            "Un",
+            "Shakar",
+            "Yog'"
+          ],
+          "cooking_method": "Un yog'da qovurilib, shakar va suv qo'shiladi, so'ngra aralashtiriladi."
+        },
+        {
+          "name": "Navvot",
+          "description": "Shakarni qaynatish orqali tayyorlanadigan shirinlik.",
+          "ingredients": [
+            "Shakar",
+            "Suv"
+          ],
+          "cooking_method": "Shakar va suv qaynatilib, kristallanish jarayonida hosil bo'ladi."
+        }
+      ],
+      "beverages": [
+        {
+          "name": "Choy",
+          "description": "Ko'k yoki qora choy O'zbekistonning asosiy ichimligi.",
+          "types": [
+            "Ko'k choy",
+            "Qora choy"
+          ],
+          "serving_method": "Choy ko'pincha lagan va piyolalarda xizmat qilinadi."
+        },
+        {
+          "name": "Sharbat",
+          "description": "Mevalar va qand bilan tayyorlanadigan ichimlik.",
+          "ingredients": [
+            "Mevalar (uzum, olma, o'rik va boshqalar)",
+            "Shakar",
+            "Suv"
+          ],
+          "cooking_method": "Mevalar qaynatilib, shakar va suv qo'shiladi."
+        }
+      ]
+    }
+  }
+  

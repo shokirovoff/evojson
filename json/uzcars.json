@@ -1,0 +1,162 @@
+{
+    "UzbekistanCars": [
+        {
+            "brand": "Chevrolet",
+            "models": [
+                {
+                    "name": "Cobalt",
+                    "type": "Sedan",
+                    "engine": "1.5L DOHC",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat/Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "7.8 L/100 km",
+                    "price_range": "10,000 - 12,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Lacetti",
+                    "type": "Sedan",
+                    "engine": "1.5L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat/Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "8.2 L/100 km",
+                    "price_range": "11,000 - 13,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Damas",
+                    "type": "Microvan",
+                    "engine": "0.8L",
+                    "fuel": "Benzin",
+                    "transmission": "Manual",
+                    "seating_capacity": 7,
+                    "fuel_consumption": "9.0 L/100 km",
+                    "price_range": "6,000 - 8,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Spark",
+                    "type": "Hatchback",
+                    "engine": "1.0L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat/Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "6.5 L/100 km",
+                    "price_range": "8,000 - 10,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Nexia 3",
+                    "type": "Sedan",
+                    "engine": "1.5L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat/Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "7.5 L/100 km",
+                    "price_range": "9,000 - 11,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Tracker",
+                    "type": "SUV",
+                    "engine": "1.0L Turbo",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "6.8 L/100 km",
+                    "price_range": "20,000 - 22,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Equinox",
+                    "type": "SUV",
+                    "engine": "1.5L Turbo",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "8.0 L/100 km",
+                    "price_range": "25,000 - 30,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Tahoe",
+                    "type": "SUV",
+                    "engine": "5.3L V8",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 7,
+                    "fuel_consumption": "12.0 L/100 km",
+                    "price_range": "50,000 - 60,000 USD",
+                    "production_location": "Import qilinadi"
+                }
+            ]
+        },
+        {
+            "brand": "Ravon",
+            "models": [
+                {
+                    "name": "Ravon R2",
+                    "type": "Hatchback",
+                    "engine": "1.2L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "6.2 L/100 km",
+                    "price_range": "7,000 - 9,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Ravon Nexia R3",
+                    "type": "Sedan",
+                    "engine": "1.5L",
+                    "fuel": "Benzin",
+                    "transmission": "Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "7.5 L/100 km",
+                    "price_range": "9,000 - 11,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Ravon Gentra",
+                    "type": "Sedan",
+                    "engine": "1.5L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "8.0 L/100 km",
+                    "price_range": "11,000 - 13,000 USD",
+                    "production_location": "Asaka, Andijon"
+                }
+            ]
+        },
+        {
+            "brand": "UzAuto Motors",
+            "models": [
+                {
+                    "name": "Tico",
+                    "type": "Hatchback",
+                    "engine": "0.8L",
+                    "fuel": "Benzin",
+                    "transmission": "Manual",
+                    "seating_capacity": 5,
+                    "fuel_consumption": "6.5 L/100 km",
+                    "price_range": "3,000 - 5,000 USD",
+                    "production_location": "Asaka, Andijon"
+                },
+                {
+                    "name": "Orlando",
+                    "type": "MPV",
+                    "engine": "1.8L",
+                    "fuel": "Benzin",
+                    "transmission": "Avtomat",
+                    "seating_capacity": 7,
+                    "fuel_consumption": "9.0 L/100 km",
+                    "price_range": "15,000 - 17,000 USD",
+                    "production_location": "Asaka, Andijon"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+section{
+    padding: 20px 20px;
+}
+
+.navbar{
+    padding: 20px 20px;
+    background: #918265;
+}
+
+.flexNav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo img{
+    border-radius: 8px;
+    width: 85px;
+}
+#openNav{
+    display: none;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.navigation #closeNav{
+    display: none;
+}
+.navigation li a{
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+}
+.flexNav .others a{
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    background: #0088FF;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: all .3s;
+}
+.flexNav .others a:hover{
+    background: #fff;
+    color: black;
+}
+
+.home .text{
+    background: #BBF7D0;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.home .text h1{
+    padding: 50px 0 0 0;
+    font-weight: 500;
+    font-size: 50px;
+}
+.home .text p{
+    font-weight: 500;
+    font-size: 30px;
+    padding: 10px 0 20px 0;
+}
+.home .text .others a{
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    background: #0088FF;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: all .3s;
+}
+.home .text .others a:hover{
+    background: #fff;
+    color: black;
+}
+
+.aboutUS{
+    padding-top: 100px;
+}
+.aboutUS .main-text{
+    text-align: center;
+    padding: 50px 0;
+}
+.aboutUS .text{
+    text-align: center;
+}
+.aboutUS .text h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.aboutUS .text p{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.jsonfiles{
+    margin: 100px 0;
+}
+.jsonfiles .flexBoxes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.jsonfiles .flexBoxes .box{
+    padding: 15px;
+    background: #0088FF;
+    border-radius: 15px;
+}
+.jsonfiles .flexBoxes .box h1{
+    color: #fff;
+    padding: 10px 0 0 0;
+}
+.jsonfiles .flexBoxes .box p{
+    color: #fff;
+    padding: 10px 0;
+}
+.jsonfiles .flexBoxes .box .flexSpans{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.jsonfiles .flexBoxes .box .flexSpans .filename{
+    color: #fff;
+}
+.jsonfiles .flexBoxes .box .flexSpans .rows{
+    color: #fff;
+}
+.jsonfiles .flexBoxes .box .btns{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    margin-top: 40px;
+}
+.jsonfiles .flexBoxes .box .btns a{
+    color: #fff;
+    text-align: center;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all .3s;
+}
+.jsonfiles .flexBoxes .box .btns a:last-child:hover{
+    background: #fff;
+    color: black;
+}
+
+
+footer{
+    background: #918265;
+    padding: 20px;
+    text-align: center;
+}
+footer p{
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+footer p a{
+    color: #BBF7D0;
+}
+
+@media (max-width: 997px) {
+    .jsonfiles .flexBoxes{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 776px) {
+    .jsonfiles .flexBoxes{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media (max-width: 535px) {
+    .navigation{
+        display: none;
+    }
+}
